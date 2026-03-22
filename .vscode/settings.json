@@ -1,0 +1,8 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python.defaultInterpreterPath": "/home/biplab/miniconda3/envs/md_ml/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "jupyter.defaultKernel": "md_ml",
+    "terminal.integrated.env.linux": {"CONDA_DEFAULT_ENV": "md_ml"}
+}
